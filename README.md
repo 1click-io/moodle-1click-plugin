@@ -40,3 +40,9 @@ Eg. Linux command line would be as follow -
 Visit https://github.com/1click-io/moodle-1click-plugin.git and download the zip, uncompress this zip and extract the folder.Rename the folder as one click The folder will have a name oneclick. Place this folder in your mod folder in your Moodle directory.
 
 The reason this is not the recommended method is due to the fact you have to over-write the contents of this folder to apply any future updates to the certificate module. In the above method there is a simple command to update the files.
+
+
+
+For More Instructions go to this link : - https://www.youtube.com/watch?v=qbAgoDXOov0&feature=youtu.be
+
+
